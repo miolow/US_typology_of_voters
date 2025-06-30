@@ -18,10 +18,10 @@ We used data from the 2024 American National Election Studies. To begin, we clea
 
 ### Main Findings
 The results revealed a total of 4 clusters: 
-(1) working class Christian traditionalists
-(2) progressive educated urbanites
-(3) white conservative investor men
-(4) diverse women with immigrant ties
+- (1) working class Christian traditionalists
+- (2) progressive educated urbanites
+- (3) white conservative investor men
+- (4) diverse women with immigrant ties
 
 
 
