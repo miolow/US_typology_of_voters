@@ -1,4 +1,5 @@
 # A Typology of American Voters (2024)
+![Slide1](https://github.com/user-attachments/assets/17034b71-1227-4fbe-bb6e-56433200ce64)
 
 ## Project Overview
 Using the American National Election Survey data from 2024, this project created a typology of American voters. K-means clustering results revealed 4 clusters of voters: (1) working class Christian tradtionalists; (2) progressive educated urbanites; (3) white conservative investor men; (4) diverse women with immigrant ties.
